@@ -9,6 +9,7 @@ namespace SimplyBankSystem
     {
         public CreditUser()
         {
+
         }
         public CreditUser(string name, string nub, string password, double money)
         {
