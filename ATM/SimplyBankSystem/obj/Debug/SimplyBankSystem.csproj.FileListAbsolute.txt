@@ -1,0 +1,5 @@
+D:\SimplyBankSystemv2\SimplyBankSystem\obj\Debug\SimplyBankSystem.exe
+D:\SimplyBankSystemv2\SimplyBankSystem\obj\Debug\SimplyBankSystem.pdb
+D:\SimplyBankSystemv2\SimplyBankSystem\bin\Debug\SimplyBankSystem.exe
+D:\SimplyBankSystemv2\SimplyBankSystem\bin\Debug\SimplyBankSystem.pdb
+D:\SimplyBankSystemv2\SimplyBankSystem\obj\Debug\ResolveAssemblyReference.cache
